@@ -1,6 +1,6 @@
 ---
-fa-linkedin: <img src="fa/linkedin.svg" align="left" width="24">
-fa-github: <img src="fa/github.svg" align="left" width="24">
+fa-linkedin: <img src="fa/linkedin.svg" width="24">
+fa-github: <img src="fa/github.svg" width="24">
 ---
 ## Hello World and Welcome
 
