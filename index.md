@@ -6,11 +6,11 @@ var: a variable content
 
 I'm Benjamin Karran, a coder, software quality enthusiast, [statistics / machine learning lover] and [outdoor sports fanatic].
 You can find me on
-{{ fa-linkedin }}
+{{ page.fa-linkedin }}
 
 <img src="fa/linkedin.svg" align="left" width="24">
 
-{{ var }}
+{{ page.var }}
 
 
 [statistics / machine learning lover]: about_me#Statistics / Machine Learning
