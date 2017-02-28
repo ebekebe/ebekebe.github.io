@@ -1,6 +1,6 @@
---
+---
 fa-linkedin: <img src="_fa/linkedin.svg" align="left" width="24">
---
+---
 ## Hello World and Welcome
 
 I'm Benjamin Karran, a coder, software quality enthusiast, [statistics / machine learning lover] and [outdoor sports fanatic].
