@@ -16,6 +16,8 @@ You can find me on
 
 ## Blog
 
-Expect blog entries here...
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 WIP
