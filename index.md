@@ -1,5 +1,5 @@
 ---
-fa-linkedin: <img src="_fa/linkedin.svg" align="left" width="24">
+fa-linkedin: <img src="fa/linkedin.svg" align="left" width="24">
 var: a variable content
 ---
 ## Hello World and Welcome
@@ -8,7 +8,7 @@ I'm Benjamin Karran, a coder, software quality enthusiast, [statistics / machine
 You can find me on
 {{ fa-linkedin }}
 
-<img src="_fa/linkedin.svg" align="left" width="24">
+<img src="fa/linkedin.svg" align="left" width="24">
 
 {{ var }}
 
